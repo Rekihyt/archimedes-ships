@@ -16,3 +16,8 @@ hs_err_pid*
 bin/
 eclipse/
 .classpath
+
+build
+.idea
+
+gradle
