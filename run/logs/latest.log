@@ -1,0 +1,2 @@
+[20Aug2021 20:23:40.351] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, MOD_DEV, --assetIndex, 1.17, --assetsDir, /home/hugh/.gradle/caches/forge_gradle/assets, --gameDir, ., --fml.forgeVersion, 37.0.42, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038]
+[20Aug2021 20:23:40.357] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 16.0.2 by Eclipse Foundation
